@@ -1,0 +1,58 @@
+Mappings from /proc/self/maps:
+08048000-0804c000 r-xp 00000000 00:34 396124                             /export/acl81/alisp
+0804c000-0804d000 rw-p 00003000 00:34 396124                             /export/acl81/alisp
+0804d000-08051000 rw-p 00000000 00:00 0 
+082f9000-0831a000 rw-p 00000000 00:00 0                                  [heap]
+71000000-712f8000 rwxp 0000a000 00:34 395884                             /export/acl81/alisp.dxl
+712f8000-714f8000 rwxp 00000000 00:00 0 
+714f8000-71584000 rwxp 00302000 00:34 395884                             /export/acl81/alisp.dxl
+71584000-7168a000 rwxp 00000000 00:00 0 
+7168a000-7168c000 rwxp 0038e000 00:34 395884                             /export/acl81/alisp.dxl
+7168c000-7178c000 rwxp 00000000 00:00 0 
+7178c000-71790000 rwxp 00390000 00:34 395884                             /export/acl81/alisp.dxl
+71790000-9ffd0000 rwxp 00000000 00:00 0 
+a0000000-a0032000 rwxp 00394000 00:34 395884                             /export/acl81/alisp.dxl
+a0032000-a00fa000 rwxp 00000000 00:00 0 
+b8926000-b8f68000 r-xs 00000000 00:34 396120                             /export/acl81/acli817.pll
+f78a9000-f78bf000 r-xp 00000000 08:01 5248530                            /lib/i386-linux-gnu/libnsl-2.27.so
+f78bf000-f78c0000 ---p 00016000 08:01 5248530                            /lib/i386-linux-gnu/libnsl-2.27.so
+f78c0000-f78c1000 r--p 00016000 08:01 5248530                            /lib/i386-linux-gnu/libnsl-2.27.so
+f78c1000-f78c2000 rw-p 00017000 08:01 5248530                            /lib/i386-linux-gnu/libnsl-2.27.so
+f78c2000-f78c4000 rw-p 00000000 00:00 0 
+f78c4000-f78d0000 r-xp 00000000 08:01 5248535                            /lib/i386-linux-gnu/libnss_nis-2.27.so
+f78d0000-f78d1000 r--p 0000b000 08:01 5248535                            /lib/i386-linux-gnu/libnss_nis-2.27.so
+f78d1000-f78d2000 rw-p 0000c000 08:01 5248535                            /lib/i386-linux-gnu/libnss_nis-2.27.so
+f78d2000-f78da000 r-xp 00000000 08:01 5248531                            /lib/i386-linux-gnu/libnss_compat-2.27.so
+f78da000-f78db000 r--p 00007000 08:01 5248531                            /lib/i386-linux-gnu/libnss_compat-2.27.so
+f78db000-f78dc000 rw-p 00008000 08:01 5248531                            /lib/i386-linux-gnu/libnss_compat-2.27.so
+f78dc000-f7adc000 r--p 00000000 08:01 3932182                            /usr/lib/locale/locale-archive
+f7adc000-f7ae8000 r-xp 00000000 08:01 5248533                            /lib/i386-linux-gnu/libnss_files-2.27.so
+f7ae8000-f7ae9000 r--p 0000b000 08:01 5248533                            /lib/i386-linux-gnu/libnss_files-2.27.so
+f7ae9000-f7aea000 rw-p 0000c000 08:01 5248533                            /lib/i386-linux-gnu/libnss_files-2.27.so
+f7aea000-f7af0000 rw-p 00000000 00:00 0 
+f7af0000-f7b71000 r-xp 00000000 00:34 393218                             /export/acl81/libacli817.so
+f7b71000-f7b7a000 rw-p 00081000 00:34 393218                             /export/acl81/libacli817.so
+f7b7a000-f7c0c000 rw-p 00000000 00:00 0 
+f7c0c000-f7de1000 r-xp 00000000 08:01 5248524                            /lib/i386-linux-gnu/libc-2.27.so
+f7de1000-f7de2000 ---p 001d5000 08:01 5248524                            /lib/i386-linux-gnu/libc-2.27.so
+f7de2000-f7de4000 r--p 001d5000 08:01 5248524                            /lib/i386-linux-gnu/libc-2.27.so
+f7de4000-f7de5000 rw-p 001d7000 08:01 5248524                            /lib/i386-linux-gnu/libc-2.27.so
+f7de5000-f7de8000 rw-p 00000000 00:00 0 
+f7de8000-f7deb000 r-xp 00000000 08:01 5248527                            /lib/i386-linux-gnu/libdl-2.27.so
+f7deb000-f7dec000 r--p 00002000 08:01 5248527                            /lib/i386-linux-gnu/libdl-2.27.so
+f7dec000-f7ded000 rw-p 00003000 08:01 5248527                            /lib/i386-linux-gnu/libdl-2.27.so
+f7ded000-f7eed000 r-xp 00000000 08:01 5248528                            /lib/i386-linux-gnu/libm-2.27.so
+f7eed000-f7eee000 r--p 000ff000 08:01 5248528                            /lib/i386-linux-gnu/libm-2.27.so
+f7eee000-f7eef000 rw-p 00100000 08:01 5248528                            /lib/i386-linux-gnu/libm-2.27.so
+f7eef000-f7f0a000 r-xp 00000000 08:01 5248538                            /lib/i386-linux-gnu/libpthread-2.27.so
+f7f0a000-f7f0b000 r--p 0001a000 08:01 5248538                            /lib/i386-linux-gnu/libpthread-2.27.so
+f7f0b000-f7f0c000 rw-p 0001b000 08:01 5248538                            /lib/i386-linux-gnu/libpthread-2.27.so
+f7f0c000-f7f0e000 rw-p 00000000 00:00 0 
+f7f37000-f7f39000 rw-p 00000000 00:00 0 
+f7f39000-f7f3c000 r--p 00000000 00:00 0                                  [vvar]
+f7f3c000-f7f3e000 r-xp 00000000 00:00 0                                  [vdso]
+f7f3e000-f7f64000 r-xp 00000000 08:01 5248520                            /lib/i386-linux-gnu/ld-2.27.so
+f7f64000-f7f65000 r--p 00025000 08:01 5248520                            /lib/i386-linux-gnu/ld-2.27.so
+f7f65000-f7f66000 rw-p 00026000 08:01 5248520                            /lib/i386-linux-gnu/ld-2.27.so
+ffbec000-ffc0b000 rwxp 00000000 00:00 0                                  [stack]
+ffc0b000-ffc0d000 rw-p 00000000 00:00 0 
